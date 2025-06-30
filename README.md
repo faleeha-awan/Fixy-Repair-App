@@ -1,4 +1,4 @@
-# Fixy-Repair-App
+# Fixi-Repair-App
 Fix Anything, Anywhere – Introducing RepairMate | Bolt Hackathon Submission
 
 # 🔧 RepairMate – Your Voice-Guided, Multilingual Repair Companion  
